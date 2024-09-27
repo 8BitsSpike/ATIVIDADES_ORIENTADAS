@@ -1,0 +1,8 @@
+.Meio{
+    display: flex;
+    font-family: arial;
+    color: darkred;
+    background-color: bisque;
+    font-size: 23px;
+    margin: auto;
+}
