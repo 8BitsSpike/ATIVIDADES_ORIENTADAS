@@ -1,43 +1,43 @@
-body{
-    margin: 0;
-    margin-left: 50px;
-    display: flex;
-    justify-content: center;
-    background-color: azure;
+body {
+  margin: 0;
+  margin-left: 50px;
+  display: flex;
+  justify-content: center;
+  background-color: azure;
 }
-.barra{
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    margin: 16px;
-height: 34px;
-width: 346px;
-border: 1px;
-border-color: black;
-background-color: yellow;
+.barra {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 16px;
+  height: 34px;
+  width: 346px;
+  border: 1px;
+  border-color: black;
+  background-color: yellow;
 }
-.cubo-verde{
-width: 28px;
-height: 28px;
-border-color: black;
-border: 1px;
-background-color: green;
+.cubo-verde {
+  width: 28px;
+  height: 28px;
+  border-color: black;
+  border: 1px;
+  background-color: green;
 }
-.cubo-laranja{
-    width: 28px;
-    height: 28px;
-    border-color: black;
-    border: 1px;
-    background-color: orangered;
+.cubo-laranja {
+  width: 28px;
+  height: 28px;
+  border-color: black;
+  border: 1px;
+  background-color: orangered;
 }
-.texto-conteudo{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin-top: 16px;
-    margin-bottom: 16px;
-    height: 34px;
+.texto-conteudo {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 16px;
+  margin-bottom: 16px;
+  height: 34px;
 }
-.tamanho-1{
-    width: 494px;
+.tamanho-1 {
+  width: 494px;
 }
